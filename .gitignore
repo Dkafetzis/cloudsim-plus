@@ -30,3 +30,5 @@ Test.java
 *.jar
 *.~lock*
 ~$*
+.vscode/settings.json
+cloudsim-plus-benchmarks/.factorypath
